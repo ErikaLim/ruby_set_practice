@@ -27,12 +27,12 @@ class Set
   end
 end
 
-additional exercise:
-
-finish remove (Write enough tests so I have 100% confidence),
-
-write is_empty
-
-implement Union, intersection, difference
-
-remember: sets are unique
+# additional exercise:
+#
+# finish remove (Write enough tests so I have 100% confidence),
+#
+# write is_empty
+#
+# implement Union, intersection, difference
+#
+# remember: sets are unique
